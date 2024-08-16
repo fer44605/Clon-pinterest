@@ -10,4 +10,4 @@ Podrás encontrarlo en [Clon Pinterest](https://clon-pinterest-green.vercel.app/
 * CSS
 
 ### Captura del proyecto
-![Captura del proyecto](imagenes/capturaPinterest.png)
+![Captura del proyecto](imagenes/CapturaPinterest.png)

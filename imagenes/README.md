@@ -3,8 +3,7 @@
 
 Proyecto creado durante el bootcamp de Tecnolochicas PRO, muestra la pantalla principal de Pinterest. 
 
-Podrás encontrarlo en [Clon Pinterest](https://github.com/fer44605/Clon-pinterest/upload).//cambiar con el tuyo
-
+Podrás encontrarlo en [Clon Pinterest](https://clon-pinterest-green.vercel.app/).
 ### Tecnologías 
 
 * HTML

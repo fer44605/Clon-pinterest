@@ -11,3 +11,4 @@ Podrás encontrarlo en [Clon Pinterest](https://clon-pinterest-green.vercel.app/
 
 ### Captura del proyecto
 ![Captura del proyecto](imagenes/CapturaPinterest.png)
+
